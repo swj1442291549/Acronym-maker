@@ -2,8 +2,7 @@
 
 Help to make a catchy acronym for your project.
 
-
-The word dictionary is adopted from (the top 100,000 most frequently-used English words)[https://gist.github.com/h3xx/1976236].
+The word dictionary is adopted from [the top 100,000 most frequently-used English words](https://gist.github.com/h3xx/1976236).
 
 
 ## Usage
